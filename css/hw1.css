@@ -1,0 +1,32 @@
+img {
+    display: none;
+}
+
+header{
+    background-color: #bababa;
+}
+
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 250%;
+    text-transform: uppercase;
+}
+
+a {
+    background-color: #a0a0a0;
+    color: #000000  ;
+}
+
+section {
+    background-color: #7a7a7a;
+}
+
+h2 {
+    text-align: left;
+    color: #00008a;
+    text-transform: uppercase;
+    font-size: 200%;
+}
+
+/* Until this point is the homework */
